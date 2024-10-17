@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://pponomarenkko.online" target="_blank">Denys</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Mariupol, Ukraine 🇺🇦</h3>
-<p align="center">🛠 Languages and Tools 🛠</p>
+<h4 align="center">🛠 Languages and Tools 🛠</h4>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
